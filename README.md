@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, randomly visiting stranger!
 
-<!--
-**stanekondrej/stanekondrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ondřej, and I am a student from the Czech Republic. I am greatly interested in the field of computer science - or, to put it simply, I really love programming and computers. (I'm a nerd.)
 
-Here are some ideas to get you started:
+## My current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- The [Českolipská Esports organization](https://github.com/Ceskolipska-Esports)
+  - The [web application](https://github.com/Ceskolipska-Esports/web)
+- A [Discord Webhook API client](https://github.com/stanekondrej/discord-webhook), written in Svelte
+
+## My recent advances
+
+I recently found out about the [Bun JS runtime](https://bun.sh), and I absolutely love it. It's super fast, and I have yet to find an incompatibility with Node.
+
+## My interests
+
+computers lol
