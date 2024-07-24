@@ -8,10 +8,6 @@ My name is Ondřej, and I am a student from the Czech Republic. I am greatly int
   - The [web application](https://github.com/Ceskolipska-Esports/web)
 - A [Discord Webhook API client](https://github.com/stanekondrej/discord-webhook), written in Svelte
 
-## My recent advances
-
-I recently found out about the [Bun JS runtime](https://bun.sh), and I absolutely love it. It's super fast, and I have yet to find an incompatibility with Node.
-
 ## My interests
 
 computers lol
