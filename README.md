@@ -8,10 +8,9 @@ mathematics, physics, and the like.
 
 ## My favourite software
 
-I use Emacs as my text editor. I've recently switched from Neovim
-after about two years, and I'm really starting to like it.
+All of my editing is done in Neovim. It's the piece of software in
+which I do my coding, writing, and all other kinds of editing.
 
 The rest is not that interesting, but I do run the [Void GNU/Linux
 distribution](https://voidlinux.org) on my laptop. It is a
-Wayland-only setup, which I try to keep relatively minimal (I do use
-Emacs, though).
+Wayland-only setup, which I try to keep relatively minimal.
