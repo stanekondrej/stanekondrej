@@ -1,6 +1,7 @@
 # ondřej staněk
 
-endeavouros + neovim [(dotfiles)](https://github.com/stanekondrej/dotfiles)
+fedora + neovim [(dotfiles)](https://github.com/stanekondrej/dotfiles)  
+framework laptop 16!!
 
 - Go <3
 - Rust
