@@ -1,6 +1,6 @@
 # ondřej staněk
 
-fedora + neovim [(dotfiles)](https://github.com/stanekondrej/dotfiles)  
+wsl + helix
 framework laptop 16!!
 
 - Go <3
