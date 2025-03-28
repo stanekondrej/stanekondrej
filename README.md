@@ -1,6 +1,6 @@
 # ondřej staněk
 
-wsl + helix
+wsl + helix  
 framework laptop 16!!
 
 - Go <3
